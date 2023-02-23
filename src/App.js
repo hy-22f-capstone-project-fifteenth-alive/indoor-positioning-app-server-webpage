@@ -5,7 +5,7 @@ import React from 'react';
 
 function App() {
 
-	const clientId = "532205455452-8v9g5lghea3po322jujds7dkv4sl0tbe.apps.googleusercontent.com";
+	const clientId;
 
 	function init() {
 	}
